@@ -1,2 +1,2 @@
-# C-codes
+# C++_codes
 It contain code for c++ by sectioning as per the category like // Section: Arithmetic Operators ...code...  // Section: Logical Operators ...code...  // Section: Comparison Operators ...code...
